@@ -1,0 +1,21 @@
+* {
+    scroll-behavior: smooth;
+}
+
+
+/* navbar image manipulation */
+.navbar-brand img{
+    height: 30px;
+    width: auto;
+    margin-inline-start: auto;
+}
+/* Darle color de bg al body entero y font color, por eso important. */
+body {
+    background-color: black !important;
+    color: white !important;
+}
+
+hr {
+    color:teal !important;
+    height: 2px !important;
+}
